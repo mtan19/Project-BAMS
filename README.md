@@ -1,6 +1,8 @@
 # Project-BAMS
 (Currently under development) BAMS: Bank Account Management Software
+
 The goal of this project is to create a program that will aid with the personal accounting of bank accounts.
+
 
 Program functionalities:
 * Create new database
@@ -10,6 +12,7 @@ Program functionalities:
 * Be able to delete transactions
 * Sort and organize transactions based on details
 * Calculate totals and subtotals of transactions
+
 
 This program will use the following (planned):
 * Java (to create the bulk of the program)
